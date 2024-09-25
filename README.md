@@ -1,3 +1,5 @@
+Loads the data from REST endpoint into postgres using DLT-Dagster embedded elt
+
 ## Steps
 * Note: Running the basic rest app and the postgres as container.
 * git clone & cd dagster_rest_postgres
